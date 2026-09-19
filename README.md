@@ -4,7 +4,8 @@ A fully interactive sales dashboard built in Microsoft Excel that turns 1,000 ro
 
 Pick a **Region**, **Category**, or **Ship Mode** with the slicers, and every KPI and chart updates instantly.
 
-![Full Dashboard](images/dashboard-full.png)
+<img width="1790" height="880" alt="Screenshot 2026-09-19 182730" src="https://github.com/user-attachments/assets/9344c540-7f4f-48d8-bcf0-096d69d2409b" />
+
 
 ---
 
@@ -62,8 +63,9 @@ The goal was to practice the full analytics workflow in Excel: **Raw Data → An
 
 Three slicers control the whole dashboard: **Region**, **Category**, and **Ship Mode**. Select a region, for example, and the KPIs, category breakdown, shipping split, and monthly trend all update to match.
 
-![Region Filter](images/dashboard-region-filter.png)
-![Ship Mode Filter](images/dashboard-shipmode-filter.png)
+<img width="1770" height="873" alt="Screenshot 2026-09-19 182838" src="https://github.com/user-attachments/assets/1f49adc7-df39-4b15-9f16-facbea030f04" />
+
+<img width="1791" height="876" alt="Screenshot 2026-09-19 183159" src="https://github.com/user-attachments/assets/5093c1ed-8485-4e44-98f1-dadd46ecdd5c" />
 
 ---
 
@@ -203,8 +205,8 @@ I built this as part of my hands-on journey into **Data Analytics and Business I
 
 If you have feedback or ideas, I'd love to hear them.
 
-- **GitHub:** [your-username](https://github.com/your-username)
-- **LinkedIn:** [your-name](https://linkedin.com/in/your-profile)
+- **GitHub:** [mayurbarase](https://github.com/mayurbarase)
+- **LinkedIn:** [MayurBarase](https://www.linkedin.com/in/mayur-barase-2b5562364?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 
 ---
 
